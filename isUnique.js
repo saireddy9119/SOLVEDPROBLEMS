@@ -1,3 +1,4 @@
+//Write a function that takes an array of integers and returns a new array with only the unique values.
 function isUnique(arr) {
     // CREATE A SET TO REMOVE DUPLICATES FROM ARRAY
     const uniqueSet = new Set(arr);
